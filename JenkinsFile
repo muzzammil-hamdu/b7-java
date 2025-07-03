@@ -1,5 +1,5 @@
 pipeline{
-		agent { label 'windows-slave' }
+		agent { label 'wind-slave' }
 
 
 		stages{
